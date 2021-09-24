@@ -2,6 +2,9 @@ my edit
 edited the file to show diff
 4th commit in dev brach
 5th commit in dev branch
+<<<<<<< HEAD
 6th commit in master - conflict
+||||||| 74cd674
+=======
 6th commit in dev branch - conflict
-code for cherry pick
+>>>>>>> dev
